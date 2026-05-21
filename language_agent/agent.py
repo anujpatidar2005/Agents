@@ -1,4 +1,4 @@
-from google.adk.agents import LlmAgent   # LLM Gemini ka brain use karega
+from google.adk.agents import LlmAgent   
 # from google.adk.tools import google_search
 
 root_agent = LlmAgent(
